@@ -1,0 +1,9 @@
+data = [
+  {"name":"rojit manandhar",
+  "address":"kathmandu"
+  },
+  {
+  "name":"bill gates",
+  "address":"ny"
+  }
+]
